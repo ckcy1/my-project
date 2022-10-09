@@ -12,12 +12,9 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7310a5dc-5adb-41f3-ac2a-a23e9afe8dfb" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/front_of_house.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/front_of_house/hosting.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/front_of_house/serving.rs" afterDir="false" />
+    <list default="true" id="7310a5dc-5adb-41f3-ac2a-a23e9afe8dfb" name="默认变更列表" comment="目录树">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +101,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665321412975</updated>
-      <workItem from="1665321414160" duration="3181000" />
+      <workItem from="1665321414160" duration="4028000" />
     </task>
+    <task id="LOCAL-00001" summary="目录树">
+      <created>1665324939036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665324939037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="目录树" />
+    <option name="LAST_COMMIT_MESSAGE" value="目录树" />
   </component>
 </project>
